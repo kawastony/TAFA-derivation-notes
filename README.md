@@ -9,18 +9,14 @@ The paper stack stays in [`Quantum_Gravity`](https://github.com/kawastony/Quantu
 | File | What it is |
 |---|---|
 | [`notes/Forced_vs_Free_TAFA_bridges.md`](notes/Forced_vs_Free_TAFA_bridges.md) | Closure note: axioms, forced lemmas, named open theorems |
-| [`notes/TAFA_stress_tensor_and_pressure.md`](notes/TAFA_stress_tensor_and_pressure.md) | Law 4 as \(T_{\mu\nu}\): cosmological \(p\), quantum pressure \(p_Q\), wall, warp |
-| [`notes/OpenB_warp_what_it_does.md`](notes/OpenB_warp_what_it_does.md) | What solving \(A(y)\) does, in plain language; why Paper 49 is not Open B |
+| [`notes/TAFA_stress_tensor_and_pressure.md`](notes/TAFA_stress_tensor_and_pressure.md) | Law 4 as \(T_{\mu\nu}\) |
+| [`notes/OpenB_warp_what_it_does.md`](notes/OpenB_warp_what_it_does.md) | What solving \(A(y)\) does |
+| [`notes/OpenB_first_integration.md`](notes/OpenB_first_integration.md) | First integration of Paper 49 ODE with no 11/72 target |
+| [`openb_warp/warp_scan_notable.csv`](openb_warp/warp_scan_notable.csv) | Notable non-frozen runs from the 300-point scan |
 
 ## Status
 
 Research notes, 3 September 2026. Not a claim of UV completion.
-
-Lineage (papers, elsewhere):
-
-- Observer_Catalyst
-- Quadratic-Mechanism-Lens (TIFA)
-- Quantum_Gravity (TAFA papers)
 
 ## Licence
 
