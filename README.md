@@ -10,6 +10,7 @@ The paper stack stays in [`Quantum_Gravity`](https://github.com/kawastony/Quantu
 |---|---|
 | [`notes/Forced_vs_Free_TAFA_bridges.md`](notes/Forced_vs_Free_TAFA_bridges.md) | Closure note: axioms, forced lemmas, named open theorems |
 | [`notes/TAFA_stress_tensor_and_pressure.md`](notes/TAFA_stress_tensor_and_pressure.md) | Law 4 as \(T_{\mu\nu}\): cosmological \(p\), quantum pressure \(p_Q\), wall, warp |
+| [`notes/OpenB_warp_what_it_does.md`](notes/OpenB_warp_what_it_does.md) | What solving \(A(y)\) does, in plain language; why Paper 49 is not Open B |
 
 ## Status
 
