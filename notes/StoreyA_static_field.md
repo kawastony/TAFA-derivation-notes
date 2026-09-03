@@ -1,15 +1,9 @@
-# Storey A — static field, try to derive \(\mu\)
+# Storey A — static field
 
-Minimal static TAFA: \(\nabla^2\phi=V_A'(\phi)\). Baryons source \(\Phi\), not \(\phi\). \(\phi=0\) always solves it. Disks do not generate a profile without an extra coupling.
+Locked action has no φ–baryon coupling. Static solution vanishing at infinity is φ=0. Rotation curve is Kepler. No pause radius, no μ.
 
-With a Yukawa source, \(\phi\propto e^{-mr}/r\). \(\mathrm{d}\phi/\mathrm{d}r\) never vanishes at finite \(r\).
+Adding a coupling gives Yukawa: only length 1/m. Setting 1/m=12.1 kpc inserts μ. Extra force dies at r>>1/m, so v^2	o GM/r. Paper 1 wants flat v outside r_p. Opposite shape.
 
-Stress-tensor pause \(\tfrac12(\phi')^2=V\) gives a shape that still depends on inner data and on mass.
+DE-scaled mass m~H0 gives Hubble range, still no 12.1 kpc and still no v_∞.
 
-MOND-like radius \(r_t=\sqrt{GM/a_{\mathrm{TAFA}}}\):
-\(10^9 M_\odot\to 1.3\,\mathrm{kpc}\), \(10^{10}\to 4.1\), \(10^{11}\to 13\), \(3\times 10^{11}\to 22.5\).
-Universal \(12.1\,\mathrm{kpc}\) matches only \(M\approx 8.7\times 10^{10} M_\odot\).
-
-FDM soliton cores shrink with \(M\). Also not universal.
-
-\(\mu\) is not derived from the static field on the locked floor. \(12.1\,\mathrm{kpc}\) stays a fit to the shape \(1-e^{-\mu r}\).
+μ is not derived from the static Einstein+TAFA field. Paper 1’s v(r)=v_∞(1-e^{-μr})^{1/2} is a different effective theory. A cone tensile PDE without μ inserted would still count; it is not this action.
