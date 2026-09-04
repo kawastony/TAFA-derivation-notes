@@ -1,57 +1,53 @@
-# DM floor — galactic TAFA
+# DM floor — galactic TAFA (one constant)
 
-Tony Kawas / 3 September 2026. Constitution. Not a paper.
+Tony Kawas / 4 September 2026. Constitution. Not a paper.
 
-This floor is **not** a dark-matter particle. It is an effective tensile law on disks that lets baryons produce SPARC-like flat curves.
+This floor is **not** a dark-matter particle. It is an effective acceleration law on disks.
 
 ---
 
 ## In
 
-Working formulae (Paper 1), two constants fixed once on SPARC (N = 125):
+One frozen acceleration, taken from the Paper 1 product and then **not retuned**:
 
-$$
-v_\infty = (\Lambda_*^2 G M_{\mathrm{bar}} \mu)^{1/4},\qquad
-v(r) = v_\infty\bigl(1-e^{-\mu r}\bigr)^{1/2}.
-$$
+    a_T = Lambda_*^2 * mu = 8.25e-11 m s^{-2}
 
-$$
-\Lambda_* = 175.8\,\mathrm{km\,s^{-1}\,kpc^{1/2}},\qquad
-\mu = 0.0824\,\mathrm{kpc^{-1}},\qquad
-r_p = 1/\mu = 12.1\,\mathrm{kpc}.
-$$
+Simple interpolator (same family as MOND “simple” μ):
 
-- \(r_p\) is a **length in galaxies**, not a date.
-- Paper 2 gas-disk correction: spatial chirality / shifted reception node. Allowed as an effective correction.
-- Winding as a **tier label inside a galaxy** only.
-- Product \(\Lambda_*^2\mu = 8.25\times 10^{-11}\,\mathrm{m\,s^{-2}}\) is one MOND-like acceleration wearing two hats. Recorded, not derived.
+    g_N = V_bar^2 / r
+    g   = g_N/2 + sqrt( (g_N/2)^2 + g_N a_T )
+    v(r) = sqrt(g r)
+
+Transition radius is mass-dependent:
+
+    r_M = sqrt(G M_bar / a_T)
+
+12.1 kpc is **not** a law. It is the r_M of a ~10^11 M_sun disk, a typical giant. Keep it as that remark only.
+
+Winding remains a tier label inside a galaxy. Paper 2 gas-disk correction stays allowed as an effective patch.
+
+Υ_disk = 0.5, Υ_bul = 0.7 (SPARC 3.6 μm convention). Not extra TAFA constants.
 
 ---
 
 ## Out
 
-- Particle DM, including \(10^{-22}\,\mathrm{eV}\) fuzzy DM as *this* floor (that is a third mass; see Storey 1).
-- \(\mu\) derived from Einstein + TAFA well (static \(\phi=0\) if uncoupled; Yukawa if coupled — dies outside \(1/m\), opposite of a flat \(v_\infty\)).
-- \(\mu\) derived from Paper 1’s “cone metric” \(ds^2=dr^2+r^2 d\theta^2\), \(\theta\in[0,2\pi)\). That is the Euclidean plane. Scale-free. Pause is already \(r_p=1/\mu\).
-- Mapping \(12.1\,\mathrm{kpc}\to z=12\).
-- Winding \(\mathrm{d}n/\mathrm{d}N=Q/C_{\mathrm{twist}}\) as a cosmic clock.
-- Relating \(\mu\) to \(H_0\) or to \(\Delta y\) (Paper 1: \(H_0\) in \(\mu\) worsened SPARC).
+- Universal μ as a length. The fade v = v_∞ (1 − e^{-μ r})^{1/2} is retired from this floor.
+- Fitting μ per galaxy.
+- Mapping 12.1 kpc → z = 12, or putting H_0 into μ.
+- Particle DM, including 10^{-22} eV fuzzy DM, as *this* floor.
+- Borrowing Δy, f, or z ~ 0.3 from the DE floor.
+- Calling a_T derived. It is still calibrated. The upgrade is dropping the second hat, not inventing the first.
 
 ---
 
-## Status of the numbers
+## Status
 
 | Object | Kind |
 |---|---|
-| \(\Lambda_*,\mu,r_p\) | Calibrated |
-| \(v(r)\) profile | Effective, contains \(\mu\) |
-| SPARC MAE ~ 0.08 dex | Empirical performance |
-| Cone story (compressive / tensile) | Narrative, not a PDE that outputs kpc |
+| a_T | Calibrated (Paper 1 product), now the only galactic constant |
+| r_M(M) | Follows from a_T; not free |
+| 12.1 kpc | Typical giant r_M, not a constant |
+| SPARC v(r) with frozen a_T | Prediction (see DM_one_constant.md) |
 
----
-
-## What would raise this floor later
-
-A disk constitutive law or metric whose tensile radius comes out in kpc **with \(\mu\) not on the right-hand side**. Until that exists, this floor is a two-constant fit. That is allowed.
-
-Do not raise it by borrowing the DE floor’s \(\Delta y\), \(f\), or \(z\sim 0.3\).
+Do not raise this floor by adding λ^2, NFW templates, or 12.28×.
