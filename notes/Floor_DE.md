@@ -4,7 +4,7 @@ Tony Kawas / 6 September 2026. Constitution. Not a paper.
 
 This floor is late-universe acceleration and the extra-dimension tick. It does **not** include galactic \(\mu\).
 
-**Room chosen: B2** (see [Decision_B2.md](Decision_B2.md)). B1 refused.
+**Room chosen: B1** (see [Decision_B1.md](Decision_B1.md)). B2 refused.
 
 ---
 
@@ -15,6 +15,7 @@ This floor is late-universe acceleration and the extra-dimension tick. It does *
 $$
 S=\int\mathrm{d}^4x\,\sqrt{-g}\left[
 \frac{M_{\mathrm{Pl}}^2}{2}R
+-\Lambda_0
 +\frac12(\partial\phi)^2
 -V_A(\phi)
 \right],
@@ -22,25 +23,22 @@ S=\int\mathrm{d}^4x\,\sqrt{-g}\left[
 V_A=\Lambda^4\tan^2\!\bigl(\phi/2f\bigr),\quad \lvert\phi\rvert<\pi f.
 $$
 
-- Möbius upgrade from TIFA cosine: \(V_A=\Lambda^4 V_T/(2\Lambda^4-V_T)\). Same midpoint \(V=V'=0\); old hilltop → wall.
-- Laws as \(G=T\). Homogeneous pressure \(p=\tfrac12\dot\phi^2-V\). No observer \(Q\).
-- 5D Einstein–scalar with this well: regularity \(A''=-2\) to the wall gives
-  \(\Delta y=0.2445\,f/\Lambda^2\). Paper 41 linear map \(\to\) **\(z\sim 0.3\)** (late tick, same window as Paper 3’s named DE onset).
-- At the wall, \(A\to-1/2\) (units \(f=\Lambda=1\)).
-
-The well floor is at zero, so **sitting at \(\phi=0\) does not accelerate**. Late DE is B2: field on the slope with \(f\gtrsim 10\,M_{\mathrm{Pl}}\).
+- Field parked at \(\phi=0\) today. \(V_A(0)=0\). Acceleration is \(\Lambda_0\).
+- Möbius upgrade from TIFA cosine still stands as geometry of the well, not as DE.
+- Laws as \(G=T\). Homogeneous DE pressure is \(p=-\Lambda_0\). No observer \(Q\).
+- 5D \(\Delta y=0.2445\,f/\Lambda^2\) and the linear map to \(z\sim 0.3\) remain a geometric tick, not “the field turned on DE.”
 
 ---
 
 ## Two rooms
 
-**Room B1 — bare \(\Lambda_0\)** — refused.  
-Add a constant. Park \(\phi=0\). Then \(w=-1\). History is \(\Lambda\)CDM. The TAFA well is not dark energy.
+**Room B1 — bare \(\Lambda_0\) — CHOSEN**  
+Park \(\phi=0\). \(w=-1\). History is \(\Lambda\)CDM. The TAFA well is not dark energy.
 
-**Room B2 — one field on the slope — CHOSEN**  
-\(\phi_0\sim f\), \(V(\phi_0)=\rho_\Lambda\). Need \(f\gtrsim 10\,M_{\mathrm{Pl}}\) (\(\gtrsim 30\) to stay safe through \(z=1\)) or \(w(z)\) goes kinetic. Super-Planckian hierarchy, written in the open. Hubble-sized mass. Cannot also be the DM floor.
+**Room B2 — one field on the slope** — refused.  
+Would need \(f\gtrsim 30\,M_{\mathrm{Pl}}\) to survive Pantheon++DESI. Hierarchy not derived.
 
-Room B3 (fit both \(\Lambda\) and \(f\) freely) is **not** on this floor.
+Room B3 is **not** on this floor.
 
 ---
 
@@ -49,9 +47,10 @@ Room B3 (fit both \(\Lambda\) and \(f\) freely) is **not** on this floor.
 - \(z=12\) as derived.
 - \(11/72\), \(R=1.5156\) as eigenvalues.
 - TAFA calculates quantum gravity.
-- Winding ODE as a cosmic calendar (does not close).
+- Winding ODE as a cosmic calendar.
 - Identifying \(\Delta y\) with \(12.1\,\mathrm{kpc}\).
 - One mass serving this floor and the DM floor.
+- Field-DE without the hierarchy.
 
 ---
 
@@ -60,13 +59,13 @@ Room B3 (fit both \(\Lambda\) and \(f\) freely) is **not** on this floor.
 | Object | Kind |
 |---|---|
 | Möbius TIFA → TAFA | Derived |
-| \(\Delta y\), late \(z\sim 0.3\) | Derived from 5D + linear activation map |
-| B2 choice | Decision |
-| B2 \(f\gtrsim 10\,M_{\mathrm{Pl}}\) | Required for DE-like \(w\); not derived |
-| \(\rho_\Lambda\) anchor | Observational |
+| \(\Delta y\), late \(z\sim 0.3\) | Derived as 5D interval + linear map; not field-DE onset |
+| B1 choice | Decision |
+| \(\Lambda_0\) | Observational; not derived |
+| B2 \(f\gtrsim 30\,M_{\mathrm{Pl}}\) | Refused |
 
 ---
 
 ## What would raise this floor later
 
-Compute only B2 against supernovae/BAO. Do not raise it by borrowing SPARC \(\mu\) or by putting \(\Lambda_0\) back in beside the field.
+A closed equation that *computes* \(\Lambda_0\). Until then the DE floor is \(\Lambda\)CDM plus a spectator well.
