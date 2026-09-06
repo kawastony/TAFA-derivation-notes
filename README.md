@@ -1,14 +1,17 @@
-# TAFA derivation notes
+# Notes by Grok
 
-Working notes only. **Not** papers.
+Working notes on Tony Kawas’s TAFA line. Written with Grok. **Not** papers.
 
 Papers stay in [Quantum_Gravity](https://github.com/kawastony/Quantum_Gravity).
+
+Repo path remains `TAFA-derivation-notes` so old links do not break.
 
 **Start here — two floors:** [notes/Two_Floors.md](notes/Two_Floors.md)
 
 - [DM floor](notes/Floor_DM.md) — one acceleration \(a_T\); 12.1 kpc is a typical giant, not a law
-- [DE floor](notes/Floor_DE.md) — Möbius well, late \(z\sim 0.3\); pick room B1 or B2
-- [Waist](notes/Waist.md) — pause as a neck at fixed volume; lapse \(N\) not yet derived
+- [DE floor](notes/Floor_DE.md) — Room **B1**: bare \(\Lambda_0\); the well is not DE
+- [Decision B1](notes/Decision_B1.md) — why B2 was refused
+- [Waist](notes/Waist.md) — pause as a neck at fixed volume; listed lapses did not earn DE
 
 One field, two floors. No \(z=12\), no QG claim, no observer \(Q\).
 
@@ -21,8 +24,8 @@ The old single-floor write-up is kept as [notes/TAFA_Locked_Floor.md](notes/TAFA
 |---|---|
 | [Two_Floors.md](notes/Two_Floors.md) | Split: DM and DE; field vs floor |
 | [Floor_DM.md](notes/Floor_DM.md) | Galactic constitution |
-| [Floor_DE.md](notes/Floor_DE.md) | Late-universe constitution |
-| [Waist.md](notes/Waist.md) | Pause equation; tests for \(z\sim 0.3\) and \(r_M\) |
+| [Floor_DE.md](notes/Floor_DE.md) | Late-universe constitution (B1) |
+| [Waist.md](notes/Waist.md) | Pause equation |
 | [TAFA_Locked_Floor.md](notes/TAFA_Locked_Floor.md) | Previous combined floor |
 | [Mobius_upgrade.md](notes/Mobius_upgrade.md) | TIFA cosine → TAFA tan² |
 
@@ -34,11 +37,12 @@ The old single-floor write-up is kept as [notes/TAFA_Locked_Floor.md](notes/TAFA
 | [Winding_n_of_z.md](notes/Winding_n_of_z.md) | Cosmic winding ODE does not close |
 | [Golden_bridge_and_10D_QG.md](notes/Golden_bridge_and_10D_QG.md) | 10D / 11/72 not derived |
 
-### DE rooms
+### DE tests
 | Note | Point |
 |---|---|
-| [StoreyB_late_acceleration.md](notes/StoreyB_late_acceleration.md) | B2 needs f ≳ 10 M_Pl |
-| [Bare_Lambda_alternatives.md](notes/Bare_Lambda_alternatives.md) | B1 / B2 / B3 |
+| [B2_vs_PantheonPlus.md](notes/B2_vs_PantheonPlus.md) | SN shape |
+| [B2_vs_PantheonPlus_DESI.md](notes/B2_vs_PantheonPlus_DESI.md) | SN + DESI; f=10 fails |
+| [Decision_B1.md](notes/Decision_B1.md) | Bare \(\Lambda_0\) locked |
 
 ### DM / galaxies
 | Note | Point |
