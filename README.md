@@ -6,10 +6,11 @@ Papers stay in [Quantum_Gravity](https://github.com/kawastony/Quantum_Gravity).
 
 **Start here — two floors:** [notes/Two_Floors.md](notes/Two_Floors.md)
 
-- [DM floor](notes/Floor_DM.md) — galactic tensile law, \(r_p=12.1\,\mathrm{kpc}\) as a **fit**
+- [DM floor](notes/Floor_DM.md) — one acceleration \(a_T\); 12.1 kpc is a typical giant, not a law
 - [DE floor](notes/Floor_DE.md) — Möbius well, late \(z\sim 0.3\); pick room B1 or B2
+- [Waist](notes/Waist.md) — pause as a neck at fixed volume; lapse \(N\) not yet derived
 
-They do not share a mass or a clock. No \(z=12\), no QG claim, no observer \(Q\).
+One field, two floors. No \(z=12\), no QG claim, no observer \(Q\).
 
 The old single-floor write-up is kept as [notes/TAFA_Locked_Floor.md](notes/TAFA_Locked_Floor.md).
 
@@ -18,9 +19,10 @@ The old single-floor write-up is kept as [notes/TAFA_Locked_Floor.md](notes/TAFA
 ### Floors
 | Note | Point |
 |---|---|
-| [Two_Floors.md](notes/Two_Floors.md) | Split: DM and DE |
+| [Two_Floors.md](notes/Two_Floors.md) | Split: DM and DE; field vs floor |
 | [Floor_DM.md](notes/Floor_DM.md) | Galactic constitution |
 | [Floor_DE.md](notes/Floor_DE.md) | Late-universe constitution |
+| [Waist.md](notes/Waist.md) | Pause equation; tests for \(z\sim 0.3\) and \(r_M\) |
 | [TAFA_Locked_Floor.md](notes/TAFA_Locked_Floor.md) | Previous combined floor |
 | [Mobius_upgrade.md](notes/Mobius_upgrade.md) | TIFA cosine → TAFA tan² |
 
