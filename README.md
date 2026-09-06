@@ -1,55 +1,20 @@
-# Notes by Grok
+# TAFA derivation notes
+
+**Canonical evidence copy is now:** [notes-by-grok](https://github.com/kawastony/notes-by-grok)
+
+This tree is the parent snapshot. Title of the work: Notes by Grok.
 
 Working notes on Tony Kawas’s TAFA line. Written with Grok. **Not** papers.
 
 Papers stay in [Quantum_Gravity](https://github.com/kawastony/Quantum_Gravity).
 
-Repo path remains `TAFA-derivation-notes` so old links do not break.
-
 **Start here — two floors:** [notes/Two_Floors.md](notes/Two_Floors.md)
 
-- [DM floor](notes/Floor_DM.md) — one acceleration \(a_T\); 12.1 kpc is a typical giant, not a law
-- [DE floor](notes/Floor_DE.md) — Room **B1**: bare \(\Lambda_0\); the well is not DE
-- [Decision B1](notes/Decision_B1.md) — why B2 was refused
-- [Waist](notes/Waist.md) — pause as a neck at fixed volume; listed lapses did not earn DE
+- [DM floor](notes/Floor_DM.md) — one acceleration \(a_T\)
+- [DE floor](notes/Floor_DE.md) — Room **B1**: bare \(\Lambda_0\)
+- [Decision B1](notes/Decision_B1.md)
 
 One field, two floors. No \(z=12\), no QG claim, no observer \(Q\).
-
-The old single-floor write-up is kept as [notes/TAFA_Locked_Floor.md](notes/TAFA_Locked_Floor.md).
-
-## Read in this order
-
-### Floors
-| Note | Point |
-|---|---|
-| [Two_Floors.md](notes/Two_Floors.md) | Split: DM and DE; field vs floor |
-| [Floor_DM.md](notes/Floor_DM.md) | Galactic constitution |
-| [Floor_DE.md](notes/Floor_DE.md) | Late-universe constitution (B1) |
-| [Waist.md](notes/Waist.md) | Pause equation |
-| [TAFA_Locked_Floor.md](notes/TAFA_Locked_Floor.md) | Previous combined floor |
-| [Mobius_upgrade.md](notes/Mobius_upgrade.md) | TIFA cosine → TAFA tan² |
-
-### 5D / activation
-| Note | Point |
-|---|---|
-| [Derive_activation_interval.md](notes/Derive_activation_interval.md) | Δy → z ∼ 0.3 |
-| [Derive_z12_routes.md](notes/Derive_z12_routes.md) | No forced z=12 |
-| [Winding_n_of_z.md](notes/Winding_n_of_z.md) | Cosmic winding ODE does not close |
-| [Golden_bridge_and_10D_QG.md](notes/Golden_bridge_and_10D_QG.md) | 10D / 11/72 not derived |
-
-### DE tests
-| Note | Point |
-|---|---|
-| [B2_vs_PantheonPlus.md](notes/B2_vs_PantheonPlus.md) | SN shape |
-| [B2_vs_PantheonPlus_DESI.md](notes/B2_vs_PantheonPlus_DESI.md) | SN + DESI; f=10 fails |
-| [Decision_B1.md](notes/Decision_B1.md) | Bare \(\Lambda_0\) locked |
-
-### DM / galaxies
-| Note | Point |
-|---|---|
-| [Storey1_three_scales.md](notes/Storey1_three_scales.md) | 12.1 kpc ≠ late tick |
-| [StoreyA_static_field.md](notes/StoreyA_static_field.md) | Static KG ≠ flat v_∞ |
-| [StoreyC_disk_cone.md](notes/StoreyC_disk_cone.md) | Paper 1 metric is the plane |
 
 ## Licence
 
